@@ -5,10 +5,10 @@ import { useNavigation } from '@react-navigation/native';
 const moments = [
     {
     id: '1',
-    title: 'El Tren',
-    description: 'El emotivo viaje en tren con Sin Cara.',
-    youtubeId: 'UpGVidzYD54',
-    image: 'https://i.ytimg.com/vi/UpGVidzYD54/maxresdefault.jpg'
+    title: 'El Balneario de los Espíritus',
+    description: 'Lin guía a Chihiro dentro del Balneario.',
+    youtubeId: 'W5szC4XgR1s',
+    image: 'https://i.ytimg.com/vi/W5szC4XgR1s/maxresdefault.jpg'
   },
   {
     id: '2',
