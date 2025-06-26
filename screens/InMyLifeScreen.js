@@ -13,7 +13,7 @@ export default function InMyLifeScreen() {
       <View style={styles.video}>
         <WebView
           javaScriptEnabled={true}
-          source={{ uri: 'https://www.youtube.com/embed/dQw4w9WgXcQ' }} // <- Reemplaza con tu video
+          source={{ uri: 'https://www.youtube.com/embed/bWlYggSKCPM' }}
         />
       </View>
     </View>
