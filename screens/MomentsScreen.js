@@ -12,15 +12,15 @@ const moments = [
   },
   {
     id: '2',
-    title: 'El Verdadero Nombre',
-    description: 'Chihiro recuerda el nombre verdadero de Haku.',
+    title: 'El Gran Dragón Blanco',
+    description: 'Haku en su forma de dragón huye de los pajaros de papel',
     youtubeId: 'ilr6q0xFKxU',
     image: 'https://i.ytimg.com/vi/ilr6q0xFKxU/maxresdefault.jpg'
   },
   {
     id: '3',
-    title: 'La despedida',
-    description: 'El conmovedor adiós entre Haku y Chihiro.',
+    title: 'Haku Ayuda a Chihiro',
+    description: 'Haku Ayuda a Chihiro a encontrar su camino en el Balneario tras quedarse atrapada en el mundo de los espíritus.',
     youtubeId: '70NhEBzLKU8',
     image: 'https://i.ytimg.com/vi/70NhEBzLKU8/maxresdefault.jpg'
   }

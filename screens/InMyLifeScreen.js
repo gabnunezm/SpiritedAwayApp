@@ -7,9 +7,9 @@ export default function InMyLifeScreen() {
     <View style={styles.container}>
       <Text style={styles.title}>En Mi Vida</Text>
       <Text style={styles.text}>
-        Esta película marcó mi infancia. Me enseñó a enfrentar mis miedos, ser valiente y valorar la bondad. Me identifico con Chihiro y su evolución a lo largo de la historia.
+        Esta película marcó bastante la forma en que me fijo en los detalles, estilos y demás dentro de un filme animado.
       </Text>
-      <Text style={styles.text}>Aquí te comparto un video hablando más al respecto:</Text>
+      <Text style={styles.text}>Aquí comparto un video hablando más al respecto:</Text>
       <View style={styles.video}>
         <WebView
           javaScriptEnabled={true}
