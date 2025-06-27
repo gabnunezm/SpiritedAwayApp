@@ -59,7 +59,7 @@ export default function HomeScreen() {
             javaScriptEnabled
             domStorageEnabled
             style={styles.video}
-            source={{ uri: 'https://www.youtube.com/embed/ByXuk9QqQkk' }}
+            source={{ uri: 'https://www.youtube.com/embed/EfYkRhWqX3s' }}
           />
         </View>
       </ScrollView>
