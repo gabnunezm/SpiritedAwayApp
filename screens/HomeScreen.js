@@ -13,10 +13,14 @@ import { WebView } from 'react-native-webview';
 const { width } = Dimensions.get('window');
 
 const images = [
+  require('../assets/img/SpiritedAway_poster.jpg'),
   require('../assets/img/chihiro.jpg'),
   require('../assets/img/haku_chihiro.jpg'),
   require('../assets/img/hakudragon.jpg'),
   require('../assets/img/bano.jpg'),
+  require('../assets/img/Chihiro_angry.jpg'),
+  require('../assets/img/sujeto_sotano.jpg'),
+  require('../assets/img/spirited-away-witch.jpg'),
 ];
 
 export default function HomeScreen() {
