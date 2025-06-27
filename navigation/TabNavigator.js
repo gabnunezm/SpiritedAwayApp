@@ -29,7 +29,7 @@ export default function TabNavigator() {
             case 'Acerca':
               iconName = 'information-circle';
               break;
-            case 'EnMiVida':
+            case 'Personal':
               iconName = 'videocam';
               break;
             case 'Contacto':
@@ -44,7 +44,7 @@ export default function TabNavigator() {
       <Tab.Screen name="Personajes" component={CharactersScreen} />
       <Tab.Screen name="Momentos" component={MomentsScreen} />
       <Tab.Screen name="Acerca" component={AboutScreen} />
-      <Tab.Screen name="EnMiVida" component={InMyLifeScreen} />
+      <Tab.Screen name="Personal" component={InMyLifeScreen} />
       <Tab.Screen name="Contacto" component={ContactScreen} />
     </Tab.Navigator>
   );
