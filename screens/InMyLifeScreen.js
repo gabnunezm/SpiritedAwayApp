@@ -5,7 +5,7 @@ import { WebView } from 'react-native-webview';
 export default function InMyLifeScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>En Mi Vida</Text>
+      <Text style={styles.title}>Personal | En Mi Vida</Text>
       <Text style={styles.text}>
         Esta película marcó bastante la forma en que me fijo en los detalles, estilos y demás dentro de un filme animado.
       </Text>
